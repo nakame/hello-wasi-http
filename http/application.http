@@ -1,0 +1,2 @@
+### Get the default endpoint
+GET http://localhost:8080

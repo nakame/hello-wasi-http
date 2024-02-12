@@ -1,0 +1,5 @@
+package nakame:hello-wasi-http;
+
+world hello-world {
+  include wasi:http/proxy@0.2.0;
+}
